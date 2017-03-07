@@ -588,8 +588,7 @@ for(声明并初始化循环变量;循环条件;迭代变化循环变量){
 
    continue: 跳过本轮循环，继续执行下一轮循环
 
-                                                           
-![](../images/circulation/1-100.png)
+![](images/circulation/1-100.png)
 ![](images/circulation/break.png)
 ![](images/circulation/dowhile.png)
 ![](images/circulation/for.png)
